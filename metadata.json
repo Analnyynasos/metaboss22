@@ -1,0 +1,63 @@
+{
+  "name": "OG Atadians #561",
+  "symbol": "ATD",
+  "description": "Atadia is a collective analytics NFT project centered around a lore-filled, post-singularity world. Holders receive pencil-drawn PFP art, exposure to drive and share the success of our analytics business, and $ATA passive income with turn-based alternate reality game mechanics.",
+  "seller_fee_basis_points": 2000,
+  "image": "https://www.arweave.net/bwJJXJyilXn59fJKQjgugXy0xEguHmki7rMTrD6tFz4?ext=png",
+  "attributes": [
+{
+      "trait_type": "Background",
+      "value": "Cloud I (Silver)  SR"
+    },
+    {
+      "trait_type": "Wing",
+      "value": "Tiger (Dark)  R"
+    },
+    {
+      "trait_type": "Face and Hair",
+      "value": "Swordman (Grey)  UR"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Cambrians  Seashell (Light)  SR"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Magic Wand III  N"
+    },
+    {
+      "trait_type": "Headgear",
+      "value": "Mirror I  Sky  R"
+    },
+    {
+      "trait_type": "Foreground",
+      "value": "Forest (Dark)  R"
+    },
+    {
+      "trait_type": "Picture Frame",
+      "value": "Double (Light)  N"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://www.arweave.net/bwJJXJyilXn59fJKQjgugXy0xEguHmki7rMTrD6tFz4?ext=png",
+        "type": "image/png"
+      }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "0.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "FZ9XCR9S7zWiAupBms1T6wXpH2MEkZxtREy2UroxdU3J",
+        "share": 100
+      }
+    ]
+  }
+}
